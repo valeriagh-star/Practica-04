@@ -37,15 +37,15 @@ El proyecto está organizado en la siguiente estructura de directorios:
 
   **│   ├── modulos/**
   
-  **│   │     ├── Administrador.java**
+  **│   │      ├── Administrador.java**
  
-  **│   │     ├── Empleado.java**
+  **│   │      ├── Empleado.java**
   
-  **│   │     └── Usuario.java**
+  **│   │      └── Usuario.java**
 
   **│   ├── Interfaces/**
   
-  **│   │     └── ArregloInterface.java**
+  **│   │      └── ArregloInterface.java**
  
   **│   ├── Main.java**
 
