@@ -31,18 +31,6 @@ En esta práctica se evaluó la correcta implementación de los conceptos mencio
 
 El proyecto está organizado en la siguiente estructura de directorios:
 
-Proyecto/
-├── src/
-│   ├── modulos/
-│   │   ├── Administrador.java
-│   │   ├── Empleado.java
-│   │   └── Usuario.java
-│   ├── Interfaces/
-│   │   └──ArregloInterface.java
-│   ├── Main.java
-│   └── ManejadorLista.java
-└── README.txt
-
 **Proyecto/
      ├── src/
      │   ├── modulos/
@@ -53,8 +41,7 @@ Proyecto/
      │   │     └── ArregloInterface.java
      │   ├── Main.java
      │   └── ManejadorLista.java
-     └── README.txt** 
-           
+     └── README.txt**       
 
 ## 📸 Evidencias (Capturas de pantalla)
 
@@ -67,9 +54,13 @@ El código fuente de los directorios está organizado por paquetes y se puede re
 
 | Carpetas | Ruta del Archivo .java |
 | :--- | :--- |
-| **Clase Usuario** | [src/Usuario/Usuario.java](https://github.com/valeriagh-star/Practica-02/blob/main/src/modulos/Usuario.java) | 
-| **Clase Main** | [src/Main/Main.java](https://github.com/valeriagh-star/Practica-02/blob/main/src/Main.java) |
-| **README** | [Practica02/main/README.txt](https://github.com/valeriagh-star/Practica-02/blob/main/README.txt) |
+| **Clase Usuario** | [src/Usuario/Usuario.java]() | 
+| **Clase Administrador** | [src/Administrador/Administrador.java]() |
+| **Clase Empleado** | [src/Empleado/Empleado.java]() |
+| **Interfaz ArregloInterface** | [src/Interfaz/ArregloInterface.java]() | 
+| **Clase Main** | [src/Main/Main.java]() |
+| **Clase ManejadorLista** | [src/ManejadorLista/ManejadorLista.java]() |
+| **README** | [Practica04/main/README.txt]() | 
 
 ## ▶️ Instrucciones de ejecución
 
