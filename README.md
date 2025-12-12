@@ -47,8 +47,8 @@ El proyecto está organizado en la siguiente estructura de directorios:
 
 A continuación se muestran capturas de pantalla sobre la ejecución en consola, donde se verifica el funcionamiento de las validaciones en los menús de Administrador y Empleado, el manejo de excepciones al intentar crear un usuario con datos inválidos, y el uso de las funcionalidades de ManejadorLista.
 
-![Captura 1 de la Ejecución de Main](practica02.png)
-![Captura 2 de la Ejecución de Main](practica02.png)
+![Captura 1 de la Ejecución de Main](practica04(1).png)
+![Captura 2 de la Ejecución de Main](practica04(2).png)
 
 El código fuente de los directorios está organizado por paquetes y se puede revisar directamente en la carpeta [src/](https://github.com/valeriagh-star/Practica-02/tree/main/src).
 
