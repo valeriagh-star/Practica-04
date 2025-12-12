@@ -31,6 +31,18 @@ En esta práctica se evaluó la correcta implementación de los conceptos mencio
 
 El proyecto está organizado en la siguiente estructura de directorios:
 
+Proyecto/
+├── src/
+│   ├── modulos/        <- Clases con 'package modulos'
+│   │   ├── Administrador.java
+│   │   ├── Empleado.java
+│   │   └── Usuario.java
+│   ├── Interfaces/     <- Clases con 'package Interfaces'
+│   │   └── ArregloInterface.java
+│   ├── Main.java       <- Clase principal
+│   └── ManejadorLista.java <- Implementa la Interfaz
+└── README.txt
+
 **Proyecto/**
 **├── src/**
 **│   ├── modulos/**
