@@ -54,12 +54,12 @@ El código fuente de los directorios está organizado por paquetes y se puede re
 
 | Carpetas | Ruta del Archivo .java |
 | :--- | :--- |
-| **Clase Usuario** | [src/Usuario/Usuario.java]() | 
-| **Clase Administrador** | [src/Administrador/Administrador.java]() |
-| **Clase Empleado** | [src/Empleado/Empleado.java]() |
-| **Interfaz ArregloInterface** | [src/Interfaz/ArregloInterface.java]() | 
-| **Clase Main** | [src/Main/Main.java]() |
-| **Clase ManejadorLista** | [src/ManejadorLista/ManejadorLista.java]() |
+| **Clase Usuario** | [src/modulos/Usuario.java](https://github.com/valeriagh-star/Practica-04/blob/main/src/modulos/Usuario.java) | 
+| **Clase Administrador** | [src/modulos/Administrador.java](https://github.com/valeriagh-star/Practica-04/blob/main/src/modulos/Administrador.java) |
+| **Clase Empleado** | [src/modulos/Empleado.java](https://github.com/valeriagh-star/Practica-04/blob/main/src/modulos/Empleado.java) |
+| **Interfaz ArregloInterface** | [src/Interfaces/ArregloInterface.java](https://github.com/valeriagh-star/Practica-04/blob/main/src/Interfaces/arregloInterface.java) | 
+| **Clase Main** | [src/Main/Main.java](https://github.com/valeriagh-star/Practica-04/blob/main/src/Main.java) |
+| **Clase ManejadorLista** | [src/ManejadorLista/ManejadorLista.java](https://github.com/valeriagh-star/Practica-04/blob/main/src/ManejadorLista.java) |
 | **README** | [Practica04/main/README.txt]() | 
 
 ## ▶️ Instrucciones de ejecución
