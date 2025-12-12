@@ -39,7 +39,7 @@ El proyecto está organizado en la siguiente estructura de directorios:
 **│   │   └── Usuario.java**
 **│   ├── Interfaces/**
 **│   │   └── ArregloInterface.java**
-**│   ├── Main.java**
+**│   ├── Main.java**         
 **│   └── ManejadorLista.java**
 **└── README.txt**              
 
