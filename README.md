@@ -74,10 +74,10 @@ El código fuente de los directorios está organizado por paquetes y se puede re
 
 ## ▶️ Instrucciones de ejecución
 
-**1. Clonar/Importar el repositorio:** Importa la carpeta Proyecto como un proyecto Java existente en Eclipse o IntelliJ.
-**2. Abrir Main: Localiza el archivo src/Main.java.**
-**3. Ejecutar: Haz clic derecho sobre src/Main.java y selecciona "Run As" -> "Java Application".**
-**4. Interacción:**
+* **1. Clonar/Importar el repositorio:** Importa la carpeta Proyecto como un proyecto Java existente en Eclipse o IntelliJ.
+* **2. Abrir Main: Localiza el archivo src/Main.java.**
+* **3. Ejecutar: Haz clic derecho sobre src/Main.java y selecciona "Run As" -> "Java Application".**
+* **4. Interacción:**
 * El programa solicitará el Nombre, Correo y Rol (Empleado o Administrador) para crear un nuevo usuario.
 * El programa automáticamente manejará las validaciones (Manejo de Excepciones) para el nombre de usuario (mínimo 5 caracteres) y el formato del correo electrónico (@ y .com).
 * Se mostrará el menú correspondiente al Rol ingresado (Administrador o Empleado).
