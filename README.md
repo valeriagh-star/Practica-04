@@ -31,7 +31,7 @@ En esta práctica se evaluó la correcta implementación de los conceptos mencio
 
 El proyecto está organizado en la siguiente estructura de directorios:
 
-Proyecto/
+**```Proyecto/
 ├── src/
 │   ├── modulos/
 │   │   ├── Administrador.java
@@ -41,7 +41,7 @@ Proyecto/
 │   │   └── ArregloInterface.java
 │   ├── Main.java
 │   └── ManejadorLista.java
-└── README.txt  
+└── README.txt ```** 
            
 
 ## 📸 Evidencias (Capturas de pantalla)
