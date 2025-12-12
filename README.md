@@ -22,3 +22,32 @@ En esta práctica se evaluó la correcta implementación de los conceptos mencio
 
 * **Estructura de Directorios y Paquetes:** Uso correcto de package e import, organizando las clases en directorios específicos (modulos/, Interfaces/).
 
+## ⚙️ Tecnologías utilizadas
+
+* **Lenguaje:** JavaSE-24.
+* **IDE:** Eclipse IDE.
+
+## 📁 Estructura del Proyecto
+
+El proyecto está organizado en la siguiente estructura de directorios:
+
+**Proyecto/**
+**├── src/**
+**│   ├── modulos/**
+**│   │   ├── Administrador.java**
+**│   │   ├── Empleado.java**
+**│   │   └── Usuario.java**
+**│   ├── Interfaces/**
+**│   │   └── ArregloInterface.java**
+**│   ├── Main.java**
+**│   └── ManejadorLista.java**
+**└── README.txt**              
+
+## 📸 Evidencias (Capturas de pantalla)
+
+A continuación se muestran capturas de pantalla sobre la ejecución en consola, donde se verifica el funcionamiento de las validaciones en los menús de Administrador y Empleado, el manejo de excepciones al intentar crear un usuario con datos inválidos, y el uso de las funcionalidades de ManejadorLista.
+
+
+
+
+
