@@ -1,8 +1,7 @@
-<div align="justify">
 # Practica-04 
 
 ## ✅ Objetivo
-
+<div align="justify">
 Esta práctica está diseñada como una extensión directa de la Práctica 02. Se busca implementar un sistema modular utilizando conceptos avanzados de la POO, como Clases Abstractas, Interfaces y Manejo de Excepciones, para gestionar diferentes tipos de usuarios (Administrador y Empleado) y manejar colecciones de datos de manera organizada. 
 
 ## ✍️ Descripción
