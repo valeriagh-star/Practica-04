@@ -1,3 +1,4 @@
+<div align="justify">
 # Practica-04 
 
 ## ✅ Objetivo
@@ -78,3 +79,4 @@ El código fuente de los directorios está organizado por paquetes y se puede re
 2.  **Abrir Main:** Localiza el archivo src/Main.java.
 3.  **Ejecutar:** Haz clic derecho sobre src/Main.java y selecciona "Run As" -> "Java Application".
 4.  **Interacción:** El programa solicitará el Nombre, Correo y Rol (Empleado o Administrador) para crear un nuevo usuario. El programa manejará las validaciones automáticamente (Manejo de Excepciones) para el nombre de usuario (mínimo 5 caracteres) y el formato del correo electrónico (@ y .com). Se mostrará el menú correspondiente al Rol ingresado (Administrador o Empleado).
+</div>
