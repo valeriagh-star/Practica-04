@@ -33,14 +33,14 @@ El proyecto está organizado en la siguiente estructura de directorios:
 
 Proyecto/
 ├── src/
-│   ├── modulos/        <- Clases con 'package modulos'
+│   ├── modulos/        
 │   │   ├── Administrador.java
 │   │   ├── Empleado.java
 │   │   └── Usuario.java
-│   ├── Interfaces/     <- Clases con 'package Interfaces'
+│   ├── Interfaces/ 
 │   │   └── ArregloInterface.java
-│   ├── Main.java       <- Clase principal
-│   └── ManejadorLista.java <- Implementa la Interfaz
+│   ├── Main.java      
+│   └── ManejadorLista.java 
 └── README.txt
 
 **Proyecto/**
